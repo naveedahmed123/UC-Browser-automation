@@ -6,5 +6,5 @@ Downloading UC Browser app from play store and downloading songs through it usin
 2. Works only for the given URL (http://songspk.mobi) in the file uc.py.
 
 # Device details:
-Model name :Lenovo A6000 PLUS.
-OS version :Android kitkat 4.4.4
+1. Model name :Lenovo A6000 PLUS.
+2. OS version :Android kitkat 4.4.4
